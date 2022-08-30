@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageToText</string>
+    <string name="your_text_will_appear_here">Your text will appear here</string>
+    <string name="click_on_capture_to_continue">Click on capture to continue</string>
+</resources>
